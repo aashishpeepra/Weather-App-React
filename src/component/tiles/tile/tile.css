@@ -1,0 +1,15 @@
+.imageFolder{
+    margin:0;
+    margin-top:20px;
+}
+.heading h1{
+    margin-top:0px;
+}
+.Tile{
+    background-color:#fff;
+    border-radius:30px;
+    padding:20px 20px;
+    margin:20px;
+    color:#949999;
+    /* display:inline-block; */
+}

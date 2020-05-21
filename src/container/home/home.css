@@ -1,0 +1,16 @@
+fieldset {
+    border: 0;
+    
+}
+legend {
+    font-size:120%
+}
+
+input {
+    border: 0px;
+    height: 40px;
+    width: 70vw;
+    text-align:center;
+    font-size: 80%;
+    margin-top: 20px;
+}
