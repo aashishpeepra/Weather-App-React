@@ -1,4 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Weatherapp With React
+<hr>
+
+## The website is hosted here
+<a href="https://weather-app-react-0927.firebaseapp.com/"> Website</a>
+
+<hr>
+
+## Stack
+I used React and Weather API to create this app. 
+
+## Hosting
+Firebase Web Hosting
+
+<hr>
 
 ## Available Scripts
 
