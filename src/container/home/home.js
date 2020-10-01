@@ -38,7 +38,7 @@ class Home extends Component {
     render() {
         return (
             <div>
-            <h1> Weather App</h1>
+            <h1 style={{borderBottom: "3px solid #fff"}}> Weather App</h1>
             <form>
                 <fieldset>
                     <legend>

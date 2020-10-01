@@ -13,4 +13,10 @@ input {
     text-align:center;
     font-size: 80%;
     margin-top: 20px;
+    color: #0080ff;
+}
+
+input:focus {
+    outline: none;
+    border: 1px solid #0080ff;
 }
